@@ -1,0 +1,124 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>API Gateway on Navendu Pottekkat</title>
+    <link>https://navendu.me/categories/api-gateway/</link>
+    <description>Recent content in API Gateway on Navendu Pottekkat</description>
+    <image>
+      <url>https://navendu.me/images/preview.png</url>
+      <link>https://navendu.me/</link>
+      <title>Navendu Pottekkat</title>
+    </image>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 14 Aug 2023 11:18:53 +0530</lastBuildDate><atom:link href="https://navendu.me/categories/api-gateway/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Best Practices for Building Reliable APIs</title>
+      <link>https://navendu.me/posts/best-practices-for-building-reliable-apis/</link>
+      <pubDate>Fri, 19 Aug 2022 17:12:35 +0530</pubDate>
+      
+      <guid>https://navendu.me/posts/best-practices-for-building-reliable-apis/</guid>
+      <description>As the size of your APIs increase, the need for making them reliable and robust also increases. This article discusses the best practices for designing reliable APIs by introducing you to a special kind of reverse proxies called API gateways.</description>
+    </item>
+    
+    <item>
+      <title>Rate Limit Your APIs With Apache APISIX</title>
+      <link>https://navendu.me/posts/rate-limit/</link>
+      <pubDate>Mon, 14 Aug 2023 11:18:53 +0530</pubDate>
+      
+      <guid>https://navendu.me/posts/rate-limit/</guid>
+      <description>A guide to using the rate limit plugins in Apache APISIX with some practical examples.</description>
+    </item>
+    
+    <item>
+      <title>Your API Requests Should Be Validated</title>
+      <link>https://navendu.me/posts/request-validation/</link>
+      <pubDate>Sat, 05 Aug 2023 15:35:09 +0530</pubDate>
+      
+      <guid>https://navendu.me/posts/request-validation/</guid>
+      <description>Adding a new layer of validation within your API gateway can be a useful design practice for a myriad of reasons. This article explores how you can configure this in Apache APISIX.</description>
+    </item>
+    
+    <item>
+      <title>Creating a Custom Data Mask Plugin</title>
+      <link>https://navendu.me/posts/data-mask-plugin/</link>
+      <pubDate>Fri, 21 Jul 2023 09:29:55 +0530</pubDate>
+      
+      <guid>https://navendu.me/posts/data-mask-plugin/</guid>
+      <description>A tutorial on creating a custom Apache APISIX plugin in Lua through a real use case.</description>
+    </item>
+    
+    <item>
+      <title>A &#34;Tiny&#34; APISIX Plugin</title>
+      <link>https://navendu.me/posts/tiny-apisix-plugin/</link>
+      <pubDate>Fri, 07 Jul 2023 09:40:14 +0530</pubDate>
+      
+      <guid>https://navendu.me/posts/tiny-apisix-plugin/</guid>
+      <description>A &amp;ldquo;tiny&amp;rdquo; example to demonstrate how Apache APISIX supports Wasm plugins.</description>
+    </item>
+    
+    <item>
+      <title>How is Apache APISIX Fast?</title>
+      <link>https://navendu.me/posts/apisix-go-brr/</link>
+      <pubDate>Mon, 12 Jun 2023 09:33:59 +0530</pubDate>
+      
+      <guid>https://navendu.me/posts/apisix-go-brr/</guid>
+      <description>Taking a look under Apache APISIX&amp;rsquo;s hood to understand how it achieves ultimate performance.</description>
+    </item>
+    
+    <item>
+      <title>A Comprehensive Guide to API Gateways, Kubernetes Gateways, and Service Meshes</title>
+      <link>https://navendu.me/posts/gateway-and-mesh/</link>
+      <pubDate>Fri, 05 May 2023 09:15:19 +0530</pubDate>
+      
+      <guid>https://navendu.me/posts/gateway-and-mesh/</guid>
+      <description>A comprehensive comparison of API gateways, Kubernetes gateways, and service meshes with actionable insights.</description>
+    </item>
+    
+    <item>
+      <title>Custom Plugins in APISIX Ingress</title>
+      <link>https://navendu.me/posts/custom-plugins-in-apisix-ingress/</link>
+      <pubDate>Fri, 24 Mar 2023 09:22:09 +0530</pubDate>
+      
+      <guid>https://navendu.me/posts/custom-plugins-in-apisix-ingress/</guid>
+      <description>A hands-on tutorial on using custom APISIX Plugins in Kubernetes environments with APISIX Ingress.</description>
+    </item>
+    
+    <item>
+      <title>Kubernetes Gateway API With APISIX Ingress</title>
+      <link>https://navendu.me/posts/kubernetes-gateway-with-apisix/</link>
+      <pubDate>Fri, 20 Jan 2023 09:45:26 +0530</pubDate>
+      
+      <guid>https://navendu.me/posts/kubernetes-gateway-with-apisix/</guid>
+      <description>A hands-on tutorial on using the new Kubernetes Gateway API with Apache APISIX Ingress.</description>
+    </item>
+    
+    <item>
+      <title>Extending Apache APISIX Ingress with Annotations, CRDs, and Plugins</title>
+      <link>https://navendu.me/posts/extending-apisix-ingress/</link>
+      <pubDate>Fri, 16 Dec 2022 10:04:02 +0530</pubDate>
+      
+      <guid>https://navendu.me/posts/extending-apisix-ingress/</guid>
+      <description>A hands-on tutorial on leveraging the full features provided by APISIX in Kubernetes Ingress.</description>
+    </item>
+    
+    <item>
+      <title>Canary Release in Kubernetes With Apache APISIX Ingress</title>
+      <link>https://navendu.me/posts/canary-in-kubernetes/</link>
+      <pubDate>Fri, 21 Oct 2022 08:41:04 +0530</pubDate>
+      
+      <guid>https://navendu.me/posts/canary-in-kubernetes/</guid>
+      <description>A hands-on, from-scratch tutorial on setting up canary releases in Kubernetes with Apache APISIX Ingress.</description>
+    </item>
+    
+    <item>
+      <title>Set Up Ingress on Kubernetes With Apache APISIX Ingress Controller</title>
+      <link>https://navendu.me/posts/hands-on-set-up-ingress-on-kubernetes-with-apache-apisix-ingress-controller/</link>
+      <pubDate>Fri, 09 Sep 2022 09:11:44 +0530</pubDate>
+      
+      <guid>https://navendu.me/posts/hands-on-set-up-ingress-on-kubernetes-with-apache-apisix-ingress-controller/</guid>
+      <description>A tutorial on using Ingress in your Kubernetes cluster with Apache APISIX.</description>
+    </item>
+    
+  </channel>
+</rss>

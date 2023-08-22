@@ -11,7 +11,16 @@
     </image>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 25 Jan 2022 12:20:40 +0530</lastBuildDate><atom:link href="https://navendu.me/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 21 Aug 2023 19:31:35 +0530</lastBuildDate><atom:link href="https://navendu.me/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Comparing Kubernetes Gateway and Ingress APIs</title>
+      <link>https://navendu.me/posts/gateway-vs-ingress-api/</link>
+      <pubDate>Fri, 14 Oct 2022 09:12:38 +0530</pubDate>
+      
+      <guid>https://navendu.me/posts/gateway-vs-ingress-api/</guid>
+      <description>Exploring the new Kubernetes Gateway API and comparing it with the existing Kubernetes Ingress API for handling external traffic.</description>
+    </item>
+    
     <item>
       <title>How I Ask Questions as a Software Engineer</title>
       <link>https://navendu.me/posts/how-i-ask-questions/</link>
@@ -22,13 +31,625 @@
     </item>
     
     <item>
-      <title>Contributing to Documentation in Open-Source</title>
-      <link>https://navendu.me/posts/contributing-to-documentation/</link>
-      <pubDate>Mon, 08 Nov 2021 12:56:25 +0530</pubDate>
+      <title>An Introduction to Monitoring Microservices with Prometheus and Grafana</title>
+      <link>https://navendu.me/posts/introduction-to-monitoring-microservices/</link>
+      <pubDate>Fri, 09 Dec 2022 10:15:51 +0530</pubDate>
       
-      <guid>https://navendu.me/posts/contributing-to-documentation/</guid>
-      <description>Contributing to documentation is really impactful for an open-source project. It can also be a stepping stone to make code contributions. Learn how.</description>
+      <guid>https://navendu.me/posts/introduction-to-monitoring-microservices/</guid>
+      <description>This tutorial walks you through setting up monitoring on a microservice application using Prometheus and Grafana.</description>
     </item>
+    
+    <item>
+      <title>Best Practices for Building Reliable APIs</title>
+      <link>https://navendu.me/posts/best-practices-for-building-reliable-apis/</link>
+      <pubDate>Fri, 19 Aug 2022 17:12:35 +0530</pubDate>
+      
+      <guid>https://navendu.me/posts/best-practices-for-building-reliable-apis/</guid>
+      <description>As the size of your APIs increase, the need for making them reliable and robust also increases. This article discusses the best practices for designing reliable APIs by introducing you to a special kind of reverse proxies called API gateways.</description>
+    </item>
+    
+    
+    
+    
+    <item>
+      <title>List Articles from a Series in Hugo</title>
+      <link>https://navendu.me/posts/list-series-hugo/</link>
+      <pubDate>Fri, 18 Aug 2023 17:59:56 +0530</pubDate>
+      
+      <guid>https://navendu.me/posts/list-series-hugo/</guid>
+      <description>How I added a list of articles in the same series at the beginning of each post.</description>
+    </item>
+    
+    <item>
+      <title>Rate Limit Your APIs With Apache APISIX</title>
+      <link>https://navendu.me/posts/rate-limit/</link>
+      <pubDate>Mon, 14 Aug 2023 11:18:53 +0530</pubDate>
+      
+      <guid>https://navendu.me/posts/rate-limit/</guid>
+      <description>A guide to using the rate limit plugins in Apache APISIX with some practical examples.</description>
+    </item>
+    
+    <item>
+      <title>Your API Requests Should Be Validated</title>
+      <link>https://navendu.me/posts/request-validation/</link>
+      <pubDate>Sat, 05 Aug 2023 15:35:09 +0530</pubDate>
+      
+      <guid>https://navendu.me/posts/request-validation/</guid>
+      <description>Adding a new layer of validation within your API gateway can be a useful design practice for a myriad of reasons. This article explores how you can configure this in Apache APISIX.</description>
+    </item>
+    
+    <item>
+      <title>Creating a Custom Data Mask Plugin</title>
+      <link>https://navendu.me/posts/data-mask-plugin/</link>
+      <pubDate>Fri, 21 Jul 2023 09:29:55 +0530</pubDate>
+      
+      <guid>https://navendu.me/posts/data-mask-plugin/</guid>
+      <description>A tutorial on creating a custom Apache APISIX plugin in Lua through a real use case.</description>
+    </item>
+    
+    <item>
+      <title>Grunt Work with RegEx</title>
+      <link>https://navendu.me/posts/regex-grunt-work/</link>
+      <pubDate>Fri, 14 Jul 2023 09:10:27 +0800</pubDate>
+      
+      <guid>https://navendu.me/posts/regex-grunt-work/</guid>
+      <description>My recent experience in using regular expressions to automate a menial task.</description>
+    </item>
+    
+    <item>
+      <title>A &#34;Tiny&#34; APISIX Plugin</title>
+      <link>https://navendu.me/posts/tiny-apisix-plugin/</link>
+      <pubDate>Fri, 07 Jul 2023 09:40:14 +0530</pubDate>
+      
+      <guid>https://navendu.me/posts/tiny-apisix-plugin/</guid>
+      <description>A &amp;ldquo;tiny&amp;rdquo; example to demonstrate how Apache APISIX supports Wasm plugins.</description>
+    </item>
+    
+    <item>
+      <title>Connecting IoT Devices to the Cloud</title>
+      <link>https://navendu.me/posts/iot-to-cloud/</link>
+      <pubDate>Fri, 30 Jun 2023 10:05:57 +0530</pubDate>
+      
+      <guid>https://navendu.me/posts/iot-to-cloud/</guid>
+      <description>A guide to using Apache APISIX as an MQTT proxy to connect IoT devices to the cloud.</description>
+    </item>
+    
+    <item>
+      <title>Eight Things the Indian Government Can Do about AI</title>
+      <link>https://navendu.me/posts/government-and-ai/</link>
+      <pubDate>Fri, 23 Jun 2023 17:31:01 +0530</pubDate>
+      
+      <guid>https://navendu.me/posts/government-and-ai/</guid>
+      <description>What can the Indian Government do about artificial intelligence?</description>
+    </item>
+    
+    
+    
+    <item>
+      <title>APISIX Service Mesh</title>
+      <link>https://navendu.me/posts/amesh/</link>
+      <pubDate>Fri, 16 Jun 2023 09:24:01 +0530</pubDate>
+      
+      <guid>https://navendu.me/posts/amesh/</guid>
+      <description>Apache APISIX is generally used to manage north-south traffic in Kubernetes and often sits at the edge of a cluster. With Amesh, APISIX is now a service mesh.</description>
+    </item>
+    
+    <item>
+      <title>How is Apache APISIX Fast?</title>
+      <link>https://navendu.me/posts/apisix-go-brr/</link>
+      <pubDate>Mon, 12 Jun 2023 09:33:59 +0530</pubDate>
+      
+      <guid>https://navendu.me/posts/apisix-go-brr/</guid>
+      <description>Taking a look under Apache APISIX&amp;rsquo;s hood to understand how it achieves ultimate performance.</description>
+    </item>
+    
+    <item>
+      <title>Notes on the Digital Personal Data Protection Bill</title>
+      <link>https://navendu.me/posts/dpdpb/</link>
+      <pubDate>Mon, 05 Jun 2023 18:05:11 +0530</pubDate>
+      
+      <guid>https://navendu.me/posts/dpdpb/</guid>
+      <description>Semi-ordered thoughts on the new Digital Personal Data Protection Bill by the Indian Government.</description>
+    </item>
+    
+    
+    <item>
+      <title>AI Traffic Cameras Were Always a Bad Idea</title>
+      <link>https://navendu.me/posts/ai-traffic-cameras/</link>
+      <pubDate>Mon, 29 May 2023 15:22:34 +0530</pubDate>
+      
+      <guid>https://navendu.me/posts/ai-traffic-cameras/</guid>
+      <description>An amateur policy analyst attempts to explain why (disregarding controversies) installing AI traffic cameras in Kerala was a bad idea.</description>
+    </item>
+    
+    <item>
+      <title>AI and APIs</title>
+      <link>https://navendu.me/posts/ai-and-apis/</link>
+      <pubDate>Sun, 21 May 2023 11:40:35 +0530</pubDate>
+      
+      <guid>https://navendu.me/posts/ai-and-apis/</guid>
+      <description>What do the recent advancements in generative AI mean for APIs?</description>
+    </item>
+    
+    <item>
+      <title>A Comprehensive Guide to API Gateways, Kubernetes Gateways, and Service Meshes</title>
+      <link>https://navendu.me/posts/gateway-and-mesh/</link>
+      <pubDate>Fri, 05 May 2023 09:15:19 +0530</pubDate>
+      
+      <guid>https://navendu.me/posts/gateway-and-mesh/</guid>
+      <description>A comprehensive comparison of API gateways, Kubernetes gateways, and service meshes with actionable insights.</description>
+    </item>
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    <item>
+      <title>Vada (Fritters) Profitable</title>
+      <link>https://navendu.me/posts/vada-profitable/</link>
+      <pubDate>Fri, 07 Apr 2023 09:59:04 +0530</pubDate>
+      
+      <guid>https://navendu.me/posts/vada-profitable/</guid>
+      <description>This article is about a project I built and open sourced three years ago and our journey to make it uzhunnu vada (UV) profitable™.</description>
+    </item>
+    
+    
+    
+    
+    <item>
+      <title>AI-Generated Spam Pull Requests</title>
+      <link>https://navendu.me/posts/ai-generated-spam-prs/</link>
+      <pubDate>Wed, 29 Mar 2023 18:15:40 +0530</pubDate>
+      
+      <guid>https://navendu.me/posts/ai-generated-spam-prs/</guid>
+      <description>Someone tried to open pull requests to open source projects with AI-generated code.</description>
+    </item>
+    
+    
+    
+    
+    
+    <item>
+      <title>Custom Plugins in APISIX Ingress</title>
+      <link>https://navendu.me/posts/custom-plugins-in-apisix-ingress/</link>
+      <pubDate>Fri, 24 Mar 2023 09:22:09 +0530</pubDate>
+      
+      <guid>https://navendu.me/posts/custom-plugins-in-apisix-ingress/</guid>
+      <description>A hands-on tutorial on using custom APISIX Plugins in Kubernetes environments with APISIX Ingress.</description>
+    </item>
+    
+    
+    <item>
+      <title>Write Stuff Down</title>
+      <link>https://navendu.me/posts/write-stuff-down/</link>
+      <pubDate>Fri, 10 Mar 2023 09:55:27 +0530</pubDate>
+      
+      <guid>https://navendu.me/posts/write-stuff-down/</guid>
+      <description>Writing as a way to think clearly and articulate your thoughts.</description>
+    </item>
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    <item>
+      <title>Kubernetes Gateway API With APISIX Ingress</title>
+      <link>https://navendu.me/posts/kubernetes-gateway-with-apisix/</link>
+      <pubDate>Fri, 20 Jan 2023 09:45:26 +0530</pubDate>
+      
+      <guid>https://navendu.me/posts/kubernetes-gateway-with-apisix/</guid>
+      <description>A hands-on tutorial on using the new Kubernetes Gateway API with Apache APISIX Ingress.</description>
+    </item>
+    
+    
+    
+    <item>
+      <title>On Open Source Communities</title>
+      <link>https://navendu.me/posts/open-source-communities/</link>
+      <pubDate>Fri, 30 Dec 2022 06:40:54 +0530</pubDate>
+      
+      <guid>https://navendu.me/posts/open-source-communities/</guid>
+      <description>A note on the role of communities in open source.</description>
+    </item>
+    
+    <item>
+      <title>ChatGPT Explained by ChatGPT</title>
+      <link>https://navendu.me/posts/chatgpt-explains-chatgpt/</link>
+      <pubDate>Wed, 21 Dec 2022 19:07:30 +0530</pubDate>
+      
+      <guid>https://navendu.me/posts/chatgpt-explains-chatgpt/</guid>
+      <description>A conversation with ChatGPT about ChatGPT. Who are you?</description>
+    </item>
+    
+    <item>
+      <title>Extending Apache APISIX Ingress with Annotations, CRDs, and Plugins</title>
+      <link>https://navendu.me/posts/extending-apisix-ingress/</link>
+      <pubDate>Fri, 16 Dec 2022 10:04:02 +0530</pubDate>
+      
+      <guid>https://navendu.me/posts/extending-apisix-ingress/</guid>
+      <description>A hands-on tutorial on leveraging the full features provided by APISIX in Kubernetes Ingress.</description>
+    </item>
+    
+    
+    
+    
+    <item>
+      <title>Signed Commits and Encrypted Communication with GPG Keys</title>
+      <link>https://navendu.me/posts/encrypted-communication-with-gpg/</link>
+      <pubDate>Fri, 02 Dec 2022 10:04:40 +0530</pubDate>
+      
+      <guid>https://navendu.me/posts/encrypted-communication-with-gpg/</guid>
+      <description>Exploring how symmetric-key and public-key cryptography works by using GPG keys to sign commits and send encrypted messages.</description>
+    </item>
+    
+    
+    <item>
+      <title>Retro Gaming With RetroPie, GPi CASE 2, and a Raspberry Pi</title>
+      <link>https://navendu.me/posts/retropie-gpi-case-2-setup/</link>
+      <pubDate>Fri, 25 Nov 2022 10:15:48 +0530</pubDate>
+      
+      <guid>https://navendu.me/posts/retropie-gpi-case-2-setup/</guid>
+      <description>A complete tutorial on how to set up RetroPie and play retro games on a GPi CASE 2 with a Raspberry Pi Compute Module 4 under the hood.</description>
+    </item>
+    
+    
+    <item>
+      <title>No Thanks, Crypto, UPI Already Solved Digital Payments</title>
+      <link>https://navendu.me/posts/upi-vs-crypto/</link>
+      <pubDate>Fri, 18 Nov 2022 10:04:47 +0530</pubDate>
+      
+      <guid>https://navendu.me/posts/upi-vs-crypto/</guid>
+      <description>Cryptocurrencies are trying to be a solution to a financial problem that does not exist. UPI solved digital payments years ago.</description>
+    </item>
+    
+    
+    
+    
+    
+    
+    <item>
+      <title>My Reasonable Birthday Goals</title>
+      <link>https://navendu.me/posts/reasonable-birthday-goals-2022/</link>
+      <pubDate>Fri, 11 Nov 2022 10:31:35 +0530</pubDate>
+      
+      <guid>https://navendu.me/posts/reasonable-birthday-goals-2022/</guid>
+      <description>Evaluating where I am and deciding where I want to be next.</description>
+    </item>
+    
+    
+    
+    
+    <item>
+      <title>A Quick Start Guide for Mastodon</title>
+      <link>https://navendu.me/posts/mastodon-quick-start-guide/</link>
+      <pubDate>Wed, 02 Nov 2022 14:02:10 +0530</pubDate>
+      
+      <guid>https://navendu.me/posts/mastodon-quick-start-guide/</guid>
+      <description>Learn to get up and running with the microblogging platform everyone is talking about.</description>
+    </item>
+    
+    <item>
+      <title>You Might Need a College Degree for a Programming Job</title>
+      <link>https://navendu.me/posts/college-degree/</link>
+      <pubDate>Fri, 28 Oct 2022 19:18:34 +0530</pubDate>
+      
+      <guid>https://navendu.me/posts/college-degree/</guid>
+      <description>Many companies and tech gurus claim you don&amp;rsquo;t need a college degree for a programming job. But here&amp;rsquo;s why you might want to get one regardless.</description>
+    </item>
+    
+    
+    
+    
+    <item>
+      <title>Canary Release in Kubernetes With Apache APISIX Ingress</title>
+      <link>https://navendu.me/posts/canary-in-kubernetes/</link>
+      <pubDate>Fri, 21 Oct 2022 08:41:04 +0530</pubDate>
+      
+      <guid>https://navendu.me/posts/canary-in-kubernetes/</guid>
+      <description>A hands-on, from-scratch tutorial on setting up canary releases in Kubernetes with Apache APISIX Ingress.</description>
+    </item>
+    
+    
+    
+    
+    <item>
+      <title>Lessons Learned From Three Years of Open Source Contributions</title>
+      <link>https://navendu.me/posts/open-source-lessons/</link>
+      <pubDate>Fri, 07 Oct 2022 09:28:21 +0530</pubDate>
+      
+      <guid>https://navendu.me/posts/open-source-lessons/</guid>
+      <description>Insights from my three year journey as an open source contributor.</description>
+    </item>
+    
+    
+    
+    
+    
+    <item>
+      <title>My Blog Setup and Writing Process</title>
+      <link>https://navendu.me/posts/my-blog-setup-and-writing-process/</link>
+      <pubDate>Fri, 23 Sep 2022 17:09:43 +0530</pubDate>
+      
+      <guid>https://navendu.me/posts/my-blog-setup-and-writing-process/</guid>
+      <description>I&amp;rsquo;ve been writing blogs for almost three years now. Recently, I&amp;rsquo;ve been putting a lot of effort into building and maintaining my blog. This article documents my blog setup and my writing process from idea to publishing.</description>
+    </item>
+    
+    
+    
+    
+    
+    <item>
+      <title>Set Up Ingress on Kubernetes With Apache APISIX Ingress Controller</title>
+      <link>https://navendu.me/posts/hands-on-set-up-ingress-on-kubernetes-with-apache-apisix-ingress-controller/</link>
+      <pubDate>Fri, 09 Sep 2022 09:11:44 +0530</pubDate>
+      
+      <guid>https://navendu.me/posts/hands-on-set-up-ingress-on-kubernetes-with-apache-apisix-ingress-controller/</guid>
+      <description>A tutorial on using Ingress in your Kubernetes cluster with Apache APISIX.</description>
+    </item>
+    
+    
+    
+    
+    
+    
+    
+    <item>
+      <title>How the LFX Mentorship Program Helped Me Level Up My Career</title>
+      <link>https://navendu.me/posts/how-the-lfx-mentorship-program-helped-me-level-up-my-career/</link>
+      <pubDate>Fri, 02 Sep 2022 10:09:32 +0530</pubDate>
+      
+      <guid>https://navendu.me/posts/how-the-lfx-mentorship-program-helped-me-level-up-my-career/</guid>
+      <description>Sharing how I got involved in the LFX Mentorship Program and its life-changing impact on my career and personal life.</description>
+    </item>
+    
+    
+    
+    
+    
+    
+    
+    <item>
+      <title>Adding Diagrams to Your Hugo Blog With Mermaid</title>
+      <link>https://navendu.me/posts/adding-diagrams-to-your-hugo-blog-with-mermaid/</link>
+      <pubDate>Fri, 26 Aug 2022 09:46:16 +0530</pubDate>
+      
+      <guid>https://navendu.me/posts/adding-diagrams-to-your-hugo-blog-with-mermaid/</guid>
+      <description>This article shows how you can add diagrams to your Hugo site with Mermaid.</description>
+    </item>
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    <item>
+      <title>How and Why I Migrated My Blog From Github Pages to Netlify</title>
+      <link>https://navendu.me/posts/how-and-why-i-migrated-my-blog-from-github-pages-to-netlify/</link>
+      <pubDate>Fri, 12 Aug 2022 15:56:00 +0530</pubDate>
+      
+      <guid>https://navendu.me/posts/how-and-why-i-migrated-my-blog-from-github-pages-to-netlify/</guid>
+      <description>This blog is now deployed on Netlify. Here is how and why I did it.</description>
+    </item>
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    <item>
+      <title>Why Developers Should Blog</title>
+      <link>https://navendu.me/posts/why-developers-should-blog/</link>
+      <pubDate>Thu, 17 Feb 2022 16:54:49 +0530</pubDate>
+      
+      <guid>https://navendu.me/posts/why-developers-should-blog/</guid>
+      <description>I have been blogging ever since I started out as a software engineer. Here is why you should do it too.</description>
+    </item>
+    
+    
+    
+    
+    
+    
+    
+    
+    <item>
+      <title>The Psychology of Money</title>
+      <link>https://navendu.me/posts/the-psychology-of-money/</link>
+      <pubDate>Wed, 09 Feb 2022 10:54:49 +0530</pubDate>
+      
+      <guid>https://navendu.me/posts/the-psychology-of-money/</guid>
+      <description>Key takeaways from Morgan Housel’s international bestseller “The Psychology of Money”—brief and to the point.</description>
+    </item>
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
     
     <item>
       <title>Everything you Need to Know About Google Summer of Code (GSoC): Important Dates, Eligibility, Application, Getting Selected and Other Tips</title>
@@ -40,7 +661,25 @@
     </item>
     
     <item>
-      <title>Pull Requests Like a PRO</title>
+      <title>Contributing to Documentation</title>
+      <link>https://navendu.me/posts/contributing-to-documentation/</link>
+      <pubDate>Mon, 08 Nov 2021 12:56:25 +0530</pubDate>
+      
+      <guid>https://navendu.me/posts/contributing-to-documentation/</guid>
+      <description>Contributing to documentation is really impactful for an open-source project. It can also be a stepping stone to make code contributions. Learn how.</description>
+    </item>
+    
+    <item>
+      <title>Non-Code Contributions to Open Source</title>
+      <link>https://navendu.me/posts/non-code-contributions-to-open-source/</link>
+      <pubDate>Tue, 21 Sep 2021 12:56:25 +0530</pubDate>
+      
+      <guid>https://navendu.me/posts/non-code-contributions-to-open-source/</guid>
+      <description>As open source becomes the default way to build software, contributions required to create, manage, and sustain projects go beyond code. This article teaches you to make non-code contributions.</description>
+    </item>
+    
+    <item>
+      <title>Pull Requests like a Pro</title>
       <link>https://navendu.me/posts/pull-requests-like-a-pro/</link>
       <pubDate>Wed, 15 Sep 2021 17:52:25 +0530</pubDate>
       
@@ -49,78 +688,31 @@
     </item>
     
     <item>
-      <title>How to Make Non-Code Contributions to Open-Source Projects</title>
-      <link>https://navendu.me/posts/non-code-contributions-to-open-source/</link>
-      <pubDate>Tue, 21 Sep 2021 12:56:25 +0530</pubDate>
-      
-      <guid>https://navendu.me/posts/non-code-contributions-to-open-source/</guid>
-      <description>Open-Source is not just about code. See how you can make non-code contributions to open-source.</description>
-    </item>
-    
-    <item>
-      <title>20&#43; Open Source Internship Programs that you can Apply to</title>
+      <title>20&#43; Open Source Internship Programs (Updated for 2023)</title>
       <link>https://navendu.me/posts/open-source-internship-programs/</link>
       <pubDate>Sat, 28 Aug 2021 17:52:25 +0530</pubDate>
       
       <guid>https://navendu.me/posts/open-source-internship-programs/</guid>
-      <description>A curated list of Open Source Internship Programs with all the necessary details.</description>
+      <description>A curated list of open source internship/mentorship programs with all the necessary details.</description>
     </item>
     
     <item>
-      <title>Building Your Career in Open-Source</title>
-      <link>https://navendu.me/posts/building-your-career-in-open-source/</link>
-      <pubDate>Thu, 30 Sep 2021 12:56:25 +0530</pubDate>
-      
-      <guid>https://navendu.me/posts/building-your-career-in-open-source/</guid>
-      <description>My experience from a new programmer to working in open-source full time.</description>
-    </item>
-    
-    <item>
-      <title>Webinar: Non-Code Contributions to Open-Source</title>
-      <link>https://navendu.me/posts/webinar-non-code-contributions-to-open-source/</link>
-      <pubDate>Sun, 07 Nov 2021 12:56:25 +0530</pubDate>
-      
-      <guid>https://navendu.me/posts/webinar-non-code-contributions-to-open-source/</guid>
-      <description>Key takeaways and resources from Navendu&amp;rsquo;s talk on Non-Code Contributions to Open-Source.</description>
-    </item>
-    
-    <item>
-      <title>CNCF Webinar: Meshery, the Service Mesh Manager</title>
+      <title>Meshery, the Service Mesh Manager</title>
       <link>https://navendu.me/posts/cncf-webinar-meshery/</link>
       <pubDate>Thu, 26 Aug 2021 00:00:00 +0000</pubDate>
       
       <guid>https://navendu.me/posts/cncf-webinar-meshery/</guid>
-      <description>This CNCF Webinar introduces Meshery, the open source, service mesh management plane that enables the adoption, operation, and management of any service mesh and their workloads.</description>
+      <description>Meshery is an open source service mesh management plane that enables the adoption, operation, and management of any service mesh and their workloads.</description>
     </item>
     
     <item>
-      <title>How to write an Awesome README</title>
+      <title>Awesome README: A Template for Writing Useful READMEs</title>
       <link>https://navendu.me/posts/how-to-write-an-awesome-readme/</link>
       <pubDate>Mon, 13 Jul 2020 00:00:00 +0000</pubDate>
       
       <guid>https://navendu.me/posts/how-to-write-an-awesome-readme/</guid>
-      <description>A comprehensive guide to writing README that stands out and makes people go WOW!</description>
+      <description>A template for writing useful READMEs.</description>
     </item>
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
     
     
     

@@ -11,7 +11,7 @@
     </image>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sat, 25 Dec 2021 11:15:25 +0530</lastBuildDate><atom:link href="https://navendu.me/tags/software-engineering/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 14 Jul 2023 09:10:27 +0800</lastBuildDate><atom:link href="https://navendu.me/tags/software-engineering/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>How I Ask Questions as a Software Engineer</title>
       <link>https://navendu.me/posts/how-i-ask-questions/</link>
@@ -19,6 +19,15 @@
       
       <guid>https://navendu.me/posts/how-i-ask-questions/</guid>
       <description>I ask a lot of questions to my peers and to strangers on public forums in the internet. This year, I have been trying to improve this process to ask better questions. Here is how I do it.</description>
+    </item>
+    
+    <item>
+      <title>Grunt Work with RegEx</title>
+      <link>https://navendu.me/posts/regex-grunt-work/</link>
+      <pubDate>Fri, 14 Jul 2023 09:10:27 +0800</pubDate>
+      
+      <guid>https://navendu.me/posts/regex-grunt-work/</guid>
+      <description>My recent experience in using regular expressions to automate a menial task.</description>
     </item>
     
   </channel>

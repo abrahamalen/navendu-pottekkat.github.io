@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>kubernetes on Navendu Pottekkat</title>
+    <link>https://navendu.me/tags/kubernetes/</link>
+    <description>Recent content in kubernetes on Navendu Pottekkat</description>
+    <image>
+      <url>https://navendu.me/images/preview.png</url>
+      <link>https://navendu.me/</link>
+      <title>Navendu Pottekkat</title>
+    </image>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Fri, 05 May 2023 09:15:19 +0530</lastBuildDate><atom:link href="https://navendu.me/tags/kubernetes/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Comparing Kubernetes Gateway and Ingress APIs</title>
+      <link>https://navendu.me/posts/gateway-vs-ingress-api/</link>
+      <pubDate>Fri, 14 Oct 2022 09:12:38 +0530</pubDate>
+      
+      <guid>https://navendu.me/posts/gateway-vs-ingress-api/</guid>
+      <description>Exploring the new Kubernetes Gateway API and comparing it with the existing Kubernetes Ingress API for handling external traffic.</description>
+    </item>
+    
+    <item>
+      <title>A Comprehensive Guide to API Gateways, Kubernetes Gateways, and Service Meshes</title>
+      <link>https://navendu.me/posts/gateway-and-mesh/</link>
+      <pubDate>Fri, 05 May 2023 09:15:19 +0530</pubDate>
+      
+      <guid>https://navendu.me/posts/gateway-and-mesh/</guid>
+      <description>A comprehensive comparison of API gateways, Kubernetes gateways, and service meshes with actionable insights.</description>
+    </item>
+    
+    <item>
+      <title>Custom Plugins in APISIX Ingress</title>
+      <link>https://navendu.me/posts/custom-plugins-in-apisix-ingress/</link>
+      <pubDate>Fri, 24 Mar 2023 09:22:09 +0530</pubDate>
+      
+      <guid>https://navendu.me/posts/custom-plugins-in-apisix-ingress/</guid>
+      <description>A hands-on tutorial on using custom APISIX Plugins in Kubernetes environments with APISIX Ingress.</description>
+    </item>
+    
+    <item>
+      <title>Kubernetes Gateway API With APISIX Ingress</title>
+      <link>https://navendu.me/posts/kubernetes-gateway-with-apisix/</link>
+      <pubDate>Fri, 20 Jan 2023 09:45:26 +0530</pubDate>
+      
+      <guid>https://navendu.me/posts/kubernetes-gateway-with-apisix/</guid>
+      <description>A hands-on tutorial on using the new Kubernetes Gateway API with Apache APISIX Ingress.</description>
+    </item>
+    
+    <item>
+      <title>Extending Apache APISIX Ingress with Annotations, CRDs, and Plugins</title>
+      <link>https://navendu.me/posts/extending-apisix-ingress/</link>
+      <pubDate>Fri, 16 Dec 2022 10:04:02 +0530</pubDate>
+      
+      <guid>https://navendu.me/posts/extending-apisix-ingress/</guid>
+      <description>A hands-on tutorial on leveraging the full features provided by APISIX in Kubernetes Ingress.</description>
+    </item>
+    
+    <item>
+      <title>Canary Release in Kubernetes With Apache APISIX Ingress</title>
+      <link>https://navendu.me/posts/canary-in-kubernetes/</link>
+      <pubDate>Fri, 21 Oct 2022 08:41:04 +0530</pubDate>
+      
+      <guid>https://navendu.me/posts/canary-in-kubernetes/</guid>
+      <description>A hands-on, from-scratch tutorial on setting up canary releases in Kubernetes with Apache APISIX Ingress.</description>
+    </item>
+    
+    <item>
+      <title>Set Up Ingress on Kubernetes With Apache APISIX Ingress Controller</title>
+      <link>https://navendu.me/posts/hands-on-set-up-ingress-on-kubernetes-with-apache-apisix-ingress-controller/</link>
+      <pubDate>Fri, 09 Sep 2022 09:11:44 +0530</pubDate>
+      
+      <guid>https://navendu.me/posts/hands-on-set-up-ingress-on-kubernetes-with-apache-apisix-ingress-controller/</guid>
+      <description>A tutorial on using Ingress in your Kubernetes cluster with Apache APISIX.</description>
+    </item>
+    
+  </channel>
+</rss>

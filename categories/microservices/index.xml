@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Microservices on Navendu Pottekkat</title>
+    <link>https://navendu.me/categories/microservices/</link>
+    <description>Recent content in Microservices on Navendu Pottekkat</description>
+    <image>
+      <url>https://navendu.me/images/preview.png</url>
+      <link>https://navendu.me/</link>
+      <title>Navendu Pottekkat</title>
+    </image>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Fri, 09 Dec 2022 10:15:51 +0530</lastBuildDate><atom:link href="https://navendu.me/categories/microservices/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>An Introduction to Monitoring Microservices with Prometheus and Grafana</title>
+      <link>https://navendu.me/posts/introduction-to-monitoring-microservices/</link>
+      <pubDate>Fri, 09 Dec 2022 10:15:51 +0530</pubDate>
+      
+      <guid>https://navendu.me/posts/introduction-to-monitoring-microservices/</guid>
+      <description>This tutorial walks you through setting up monitoring on a microservice application using Prometheus and Grafana.</description>
+    </item>
+    
+  </channel>
+</rss>

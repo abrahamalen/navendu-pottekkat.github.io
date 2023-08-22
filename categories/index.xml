@@ -11,22 +11,157 @@
     </image>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 25 Jan 2022 12:20:40 +0530</lastBuildDate><atom:link href="https://navendu.me/categories/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 21 Aug 2023 19:31:35 +0530</lastBuildDate><atom:link href="https://navendu.me/categories/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Daily Dose of Pottekkat</title>
       <link>https://navendu.me/categories/daily-dose-of-pottekkat/</link>
-      <pubDate>Tue, 25 Jan 2022 12:20:40 +0530</pubDate>
+      <pubDate>Mon, 21 Aug 2023 19:31:35 +0530</pubDate>
       
       <guid>https://navendu.me/categories/daily-dose-of-pottekkat/</guid>
       <description></description>
     </item>
     
     <item>
+      <title>Blogging</title>
+      <link>https://navendu.me/categories/blogging/</link>
+      <pubDate>Fri, 18 Aug 2023 17:59:56 +0530</pubDate>
+      
+      <guid>https://navendu.me/categories/blogging/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>API Gateway</title>
+      <link>https://navendu.me/categories/api-gateway/</link>
+      <pubDate>Mon, 14 Aug 2023 11:18:53 +0530</pubDate>
+      
+      <guid>https://navendu.me/categories/api-gateway/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Automation</title>
+      <link>https://navendu.me/categories/automation/</link>
+      <pubDate>Fri, 14 Jul 2023 09:10:27 +0800</pubDate>
+      
+      <guid>https://navendu.me/categories/automation/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>IoT</title>
+      <link>https://navendu.me/categories/iot/</link>
+      <pubDate>Fri, 30 Jun 2023 10:05:57 +0530</pubDate>
+      
+      <guid>https://navendu.me/categories/iot/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Public Policy</title>
+      <link>https://navendu.me/categories/public-policy/</link>
+      <pubDate>Fri, 23 Jun 2023 17:31:01 +0530</pubDate>
+      
+      <guid>https://navendu.me/categories/public-policy/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Service Mesh</title>
+      <link>https://navendu.me/categories/service-mesh/</link>
+      <pubDate>Fri, 16 Jun 2023 09:24:01 +0530</pubDate>
+      
+      <guid>https://navendu.me/categories/service-mesh/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>AI</title>
+      <link>https://navendu.me/categories/ai/</link>
+      <pubDate>Sun, 21 May 2023 11:40:35 +0530</pubDate>
+      
+      <guid>https://navendu.me/categories/ai/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Open Source</title>
+      <link>https://navendu.me/categories/open-source/</link>
+      <pubDate>Fri, 07 Apr 2023 09:59:04 +0530</pubDate>
+      
+      <guid>https://navendu.me/categories/open-source/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Featured</title>
       <link>https://navendu.me/categories/featured/</link>
-      <pubDate>Sat, 25 Dec 2021 11:15:25 +0530</pubDate>
+      <pubDate>Fri, 09 Dec 2022 10:15:51 +0530</pubDate>
       
       <guid>https://navendu.me/categories/featured/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Microservices</title>
+      <link>https://navendu.me/categories/microservices/</link>
+      <pubDate>Fri, 09 Dec 2022 10:15:51 +0530</pubDate>
+      
+      <guid>https://navendu.me/categories/microservices/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Tutorials</title>
+      <link>https://navendu.me/categories/tutorials/</link>
+      <pubDate>Fri, 02 Dec 2022 10:04:40 +0530</pubDate>
+      
+      <guid>https://navendu.me/categories/tutorials/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Raspberry Pi</title>
+      <link>https://navendu.me/categories/raspberry-pi/</link>
+      <pubDate>Fri, 25 Nov 2022 10:15:48 +0530</pubDate>
+      
+      <guid>https://navendu.me/categories/raspberry-pi/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Essays</title>
+      <link>https://navendu.me/categories/essays/</link>
+      <pubDate>Fri, 18 Nov 2022 10:04:47 +0530</pubDate>
+      
+      <guid>https://navendu.me/categories/essays/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Life</title>
+      <link>https://navendu.me/categories/life/</link>
+      <pubDate>Fri, 11 Nov 2022 10:31:35 +0530</pubDate>
+      
+      <guid>https://navendu.me/categories/life/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Kubernetes</title>
+      <link>https://navendu.me/categories/kubernetes/</link>
+      <pubDate>Fri, 14 Oct 2022 09:12:38 +0530</pubDate>
+      
+      <guid>https://navendu.me/categories/kubernetes/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Book Review</title>
+      <link>https://navendu.me/categories/book-review/</link>
+      <pubDate>Wed, 09 Feb 2022 10:54:49 +0530</pubDate>
+      
+      <guid>https://navendu.me/categories/book-review/</guid>
       <description></description>
     </item>
     
@@ -40,29 +175,11 @@
     </item>
     
     <item>
-      <title>Open Source</title>
-      <link>https://navendu.me/categories/open-source/</link>
-      <pubDate>Thu, 02 Dec 2021 12:49:25 +0530</pubDate>
+      <title>Writing/Blogging</title>
+      <link>https://navendu.me/categories/writing/blogging/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://navendu.me/categories/open-source/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Talks</title>
-      <link>https://navendu.me/categories/talks/</link>
-      <pubDate>Sun, 07 Nov 2021 12:56:25 +0530</pubDate>
-      
-      <guid>https://navendu.me/categories/talks/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Tutorials</title>
-      <link>https://navendu.me/categories/tutorials/</link>
-      <pubDate>Mon, 13 Jul 2020 00:00:00 +0000</pubDate>
-      
-      <guid>https://navendu.me/categories/tutorials/</guid>
+      <guid>https://navendu.me/categories/writing/blogging/</guid>
       <description></description>
     </item>
     

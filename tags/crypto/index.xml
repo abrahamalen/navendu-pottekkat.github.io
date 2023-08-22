@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>crypto on Navendu Pottekkat</title>
+    <link>https://navendu.me/tags/crypto/</link>
+    <description>Recent content in crypto on Navendu Pottekkat</description>
+    <image>
+      <url>https://navendu.me/images/preview.png</url>
+      <link>https://navendu.me/</link>
+      <title>Navendu Pottekkat</title>
+    </image>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Fri, 18 Nov 2022 10:04:47 +0530</lastBuildDate><atom:link href="https://navendu.me/tags/crypto/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>No Thanks, Crypto, UPI Already Solved Digital Payments</title>
+      <link>https://navendu.me/posts/upi-vs-crypto/</link>
+      <pubDate>Fri, 18 Nov 2022 10:04:47 +0530</pubDate>
+      
+      <guid>https://navendu.me/posts/upi-vs-crypto/</guid>
+      <description>Cryptocurrencies are trying to be a solution to a financial problem that does not exist. UPI solved digital payments years ago.</description>
+    </item>
+    
+  </channel>
+</rss>

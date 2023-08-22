@@ -11,14 +11,50 @@
     </image>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 02 Dec 2021 12:49:25 +0530</lastBuildDate><atom:link href="https://navendu.me/categories/open-source/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 07 Apr 2023 09:59:04 +0530</lastBuildDate><atom:link href="https://navendu.me/categories/open-source/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Contributing to Documentation in Open-Source</title>
-      <link>https://navendu.me/posts/contributing-to-documentation/</link>
-      <pubDate>Mon, 08 Nov 2021 12:56:25 +0530</pubDate>
+      <title>Vada (Fritters) Profitable</title>
+      <link>https://navendu.me/posts/vada-profitable/</link>
+      <pubDate>Fri, 07 Apr 2023 09:59:04 +0530</pubDate>
       
-      <guid>https://navendu.me/posts/contributing-to-documentation/</guid>
-      <description>Contributing to documentation is really impactful for an open-source project. It can also be a stepping stone to make code contributions. Learn how.</description>
+      <guid>https://navendu.me/posts/vada-profitable/</guid>
+      <description>This article is about a project I built and open sourced three years ago and our journey to make it uzhunnu vada (UV) profitable™.</description>
+    </item>
+    
+    <item>
+      <title>AI-Generated Spam Pull Requests</title>
+      <link>https://navendu.me/posts/ai-generated-spam-prs/</link>
+      <pubDate>Wed, 29 Mar 2023 18:15:40 +0530</pubDate>
+      
+      <guid>https://navendu.me/posts/ai-generated-spam-prs/</guid>
+      <description>Someone tried to open pull requests to open source projects with AI-generated code.</description>
+    </item>
+    
+    <item>
+      <title>On Open Source Communities</title>
+      <link>https://navendu.me/posts/open-source-communities/</link>
+      <pubDate>Fri, 30 Dec 2022 06:40:54 +0530</pubDate>
+      
+      <guid>https://navendu.me/posts/open-source-communities/</guid>
+      <description>A note on the role of communities in open source.</description>
+    </item>
+    
+    <item>
+      <title>Lessons Learned From Three Years of Open Source Contributions</title>
+      <link>https://navendu.me/posts/open-source-lessons/</link>
+      <pubDate>Fri, 07 Oct 2022 09:28:21 +0530</pubDate>
+      
+      <guid>https://navendu.me/posts/open-source-lessons/</guid>
+      <description>Insights from my three year journey as an open source contributor.</description>
+    </item>
+    
+    <item>
+      <title>How the LFX Mentorship Program Helped Me Level Up My Career</title>
+      <link>https://navendu.me/posts/how-the-lfx-mentorship-program-helped-me-level-up-my-career/</link>
+      <pubDate>Fri, 02 Sep 2022 10:09:32 +0530</pubDate>
+      
+      <guid>https://navendu.me/posts/how-the-lfx-mentorship-program-helped-me-level-up-my-career/</guid>
+      <description>Sharing how I got involved in the LFX Mentorship Program and its life-changing impact on my career and personal life.</description>
     </item>
     
     <item>
@@ -31,7 +67,25 @@
     </item>
     
     <item>
-      <title>Pull Requests Like a PRO</title>
+      <title>Contributing to Documentation</title>
+      <link>https://navendu.me/posts/contributing-to-documentation/</link>
+      <pubDate>Mon, 08 Nov 2021 12:56:25 +0530</pubDate>
+      
+      <guid>https://navendu.me/posts/contributing-to-documentation/</guid>
+      <description>Contributing to documentation is really impactful for an open-source project. It can also be a stepping stone to make code contributions. Learn how.</description>
+    </item>
+    
+    <item>
+      <title>Non-Code Contributions to Open Source</title>
+      <link>https://navendu.me/posts/non-code-contributions-to-open-source/</link>
+      <pubDate>Tue, 21 Sep 2021 12:56:25 +0530</pubDate>
+      
+      <guid>https://navendu.me/posts/non-code-contributions-to-open-source/</guid>
+      <description>As open source becomes the default way to build software, contributions required to create, manage, and sustain projects go beyond code. This article teaches you to make non-code contributions.</description>
+    </item>
+    
+    <item>
+      <title>Pull Requests like a Pro</title>
       <link>https://navendu.me/posts/pull-requests-like-a-pro/</link>
       <pubDate>Wed, 15 Sep 2021 17:52:25 +0530</pubDate>
       
@@ -40,21 +94,12 @@
     </item>
     
     <item>
-      <title>How to Make Non-Code Contributions to Open-Source Projects</title>
-      <link>https://navendu.me/posts/non-code-contributions-to-open-source/</link>
-      <pubDate>Tue, 21 Sep 2021 12:56:25 +0530</pubDate>
-      
-      <guid>https://navendu.me/posts/non-code-contributions-to-open-source/</guid>
-      <description>Open-Source is not just about code. See how you can make non-code contributions to open-source.</description>
-    </item>
-    
-    <item>
-      <title>20&#43; Open Source Internship Programs that you can Apply to</title>
+      <title>20&#43; Open Source Internship Programs (Updated for 2023)</title>
       <link>https://navendu.me/posts/open-source-internship-programs/</link>
       <pubDate>Sat, 28 Aug 2021 17:52:25 +0530</pubDate>
       
       <guid>https://navendu.me/posts/open-source-internship-programs/</guid>
-      <description>A curated list of Open Source Internship Programs with all the necessary details.</description>
+      <description>A curated list of open source internship/mentorship programs with all the necessary details.</description>
     </item>
     
   </channel>

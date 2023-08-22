@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>finance on Navendu Pottekkat</title>
+    <link>https://navendu.me/tags/finance/</link>
+    <description>Recent content in finance on Navendu Pottekkat</description>
+    <image>
+      <url>https://navendu.me/images/preview.png</url>
+      <link>https://navendu.me/</link>
+      <title>Navendu Pottekkat</title>
+    </image>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Fri, 07 Apr 2023 09:59:04 +0530</lastBuildDate><atom:link href="https://navendu.me/tags/finance/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Vada (Fritters) Profitable</title>
+      <link>https://navendu.me/posts/vada-profitable/</link>
+      <pubDate>Fri, 07 Apr 2023 09:59:04 +0530</pubDate>
+      
+      <guid>https://navendu.me/posts/vada-profitable/</guid>
+      <description>This article is about a project I built and open sourced three years ago and our journey to make it uzhunnu vada (UV) profitable™.</description>
+    </item>
+    
+    <item>
+      <title>No Thanks, Crypto, UPI Already Solved Digital Payments</title>
+      <link>https://navendu.me/posts/upi-vs-crypto/</link>
+      <pubDate>Fri, 18 Nov 2022 10:04:47 +0530</pubDate>
+      
+      <guid>https://navendu.me/posts/upi-vs-crypto/</guid>
+      <description>Cryptocurrencies are trying to be a solution to a financial problem that does not exist. UPI solved digital payments years ago.</description>
+    </item>
+    
+    <item>
+      <title>The Psychology of Money</title>
+      <link>https://navendu.me/posts/the-psychology-of-money/</link>
+      <pubDate>Wed, 09 Feb 2022 10:54:49 +0530</pubDate>
+      
+      <guid>https://navendu.me/posts/the-psychology-of-money/</guid>
+      <description>Key takeaways from Morgan Housel’s international bestseller “The Psychology of Money”—brief and to the point.</description>
+    </item>
+    
+  </channel>
+</rss>

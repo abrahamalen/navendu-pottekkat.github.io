@@ -11,7 +11,7 @@
     </image>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sat, 25 Dec 2021 11:15:25 +0530</lastBuildDate><atom:link href="https://navendu.me/tags/tips/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 10 Mar 2023 09:55:27 +0530</lastBuildDate><atom:link href="https://navendu.me/tags/tips/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>How I Ask Questions as a Software Engineer</title>
       <link>https://navendu.me/posts/how-i-ask-questions/</link>
@@ -19,6 +19,15 @@
       
       <guid>https://navendu.me/posts/how-i-ask-questions/</guid>
       <description>I ask a lot of questions to my peers and to strangers on public forums in the internet. This year, I have been trying to improve this process to ask better questions. Here is how I do it.</description>
+    </item>
+    
+    <item>
+      <title>Write Stuff Down</title>
+      <link>https://navendu.me/posts/write-stuff-down/</link>
+      <pubDate>Fri, 10 Mar 2023 09:55:27 +0530</pubDate>
+      
+      <guid>https://navendu.me/posts/write-stuff-down/</guid>
+      <description>Writing as a way to think clearly and articulate your thoughts.</description>
     </item>
     
     <item>
@@ -31,7 +40,7 @@
     </item>
     
     <item>
-      <title>Pull Requests Like a PRO</title>
+      <title>Pull Requests like a Pro</title>
       <link>https://navendu.me/posts/pull-requests-like-a-pro/</link>
       <pubDate>Wed, 15 Sep 2021 17:52:25 +0530</pubDate>
       

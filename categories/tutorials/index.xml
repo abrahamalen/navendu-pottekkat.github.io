@@ -11,14 +11,50 @@
     </image>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 13 Jul 2020 00:00:00 +0000</lastBuildDate><atom:link href="https://navendu.me/categories/tutorials/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 02 Dec 2022 10:04:40 +0530</lastBuildDate><atom:link href="https://navendu.me/categories/tutorials/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>How to write an Awesome README</title>
+      <title>Signed Commits and Encrypted Communication with GPG Keys</title>
+      <link>https://navendu.me/posts/encrypted-communication-with-gpg/</link>
+      <pubDate>Fri, 02 Dec 2022 10:04:40 +0530</pubDate>
+      
+      <guid>https://navendu.me/posts/encrypted-communication-with-gpg/</guid>
+      <description>Exploring how symmetric-key and public-key cryptography works by using GPG keys to sign commits and send encrypted messages.</description>
+    </item>
+    
+    <item>
+      <title>A Quick Start Guide for Mastodon</title>
+      <link>https://navendu.me/posts/mastodon-quick-start-guide/</link>
+      <pubDate>Wed, 02 Nov 2022 14:02:10 +0530</pubDate>
+      
+      <guid>https://navendu.me/posts/mastodon-quick-start-guide/</guid>
+      <description>Learn to get up and running with the microblogging platform everyone is talking about.</description>
+    </item>
+    
+    <item>
+      <title>Adding Diagrams to Your Hugo Blog With Mermaid</title>
+      <link>https://navendu.me/posts/adding-diagrams-to-your-hugo-blog-with-mermaid/</link>
+      <pubDate>Fri, 26 Aug 2022 09:46:16 +0530</pubDate>
+      
+      <guid>https://navendu.me/posts/adding-diagrams-to-your-hugo-blog-with-mermaid/</guid>
+      <description>This article shows how you can add diagrams to your Hugo site with Mermaid.</description>
+    </item>
+    
+    <item>
+      <title>How and Why I Migrated My Blog From Github Pages to Netlify</title>
+      <link>https://navendu.me/posts/how-and-why-i-migrated-my-blog-from-github-pages-to-netlify/</link>
+      <pubDate>Fri, 12 Aug 2022 15:56:00 +0530</pubDate>
+      
+      <guid>https://navendu.me/posts/how-and-why-i-migrated-my-blog-from-github-pages-to-netlify/</guid>
+      <description>This blog is now deployed on Netlify. Here is how and why I did it.</description>
+    </item>
+    
+    <item>
+      <title>Awesome README: A Template for Writing Useful READMEs</title>
       <link>https://navendu.me/posts/how-to-write-an-awesome-readme/</link>
       <pubDate>Mon, 13 Jul 2020 00:00:00 +0000</pubDate>
       
       <guid>https://navendu.me/posts/how-to-write-an-awesome-readme/</guid>
-      <description>A comprehensive guide to writing README that stands out and makes people go WOW!</description>
+      <description>A template for writing useful READMEs.</description>
     </item>
     
   </channel>

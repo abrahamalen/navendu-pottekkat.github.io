@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>lua on Navendu Pottekkat</title>
+    <link>https://navendu.me/tags/lua/</link>
+    <description>Recent content in lua on Navendu Pottekkat</description>
+    <image>
+      <url>https://navendu.me/images/preview.png</url>
+      <link>https://navendu.me/</link>
+      <title>Navendu Pottekkat</title>
+    </image>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Fri, 21 Jul 2023 09:29:55 +0530</lastBuildDate><atom:link href="https://navendu.me/tags/lua/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Creating a Custom Data Mask Plugin</title>
+      <link>https://navendu.me/posts/data-mask-plugin/</link>
+      <pubDate>Fri, 21 Jul 2023 09:29:55 +0530</pubDate>
+      
+      <guid>https://navendu.me/posts/data-mask-plugin/</guid>
+      <description>A tutorial on creating a custom Apache APISIX plugin in Lua through a real use case.</description>
+    </item>
+    
+  </channel>
+</rss>

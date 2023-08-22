@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>ai on Navendu Pottekkat</title>
+    <link>https://navendu.me/tags/ai/</link>
+    <description>Recent content in ai on Navendu Pottekkat</description>
+    <image>
+      <url>https://navendu.me/images/preview.png</url>
+      <link>https://navendu.me/</link>
+      <title>Navendu Pottekkat</title>
+    </image>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Fri, 23 Jun 2023 17:31:01 +0530</lastBuildDate><atom:link href="https://navendu.me/tags/ai/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Eight Things the Indian Government Can Do about AI</title>
+      <link>https://navendu.me/posts/government-and-ai/</link>
+      <pubDate>Fri, 23 Jun 2023 17:31:01 +0530</pubDate>
+      
+      <guid>https://navendu.me/posts/government-and-ai/</guid>
+      <description>What can the Indian Government do about artificial intelligence?</description>
+    </item>
+    
+    <item>
+      <title>AI Traffic Cameras Were Always a Bad Idea</title>
+      <link>https://navendu.me/posts/ai-traffic-cameras/</link>
+      <pubDate>Mon, 29 May 2023 15:22:34 +0530</pubDate>
+      
+      <guid>https://navendu.me/posts/ai-traffic-cameras/</guid>
+      <description>An amateur policy analyst attempts to explain why (disregarding controversies) installing AI traffic cameras in Kerala was a bad idea.</description>
+    </item>
+    
+    <item>
+      <title>AI and APIs</title>
+      <link>https://navendu.me/posts/ai-and-apis/</link>
+      <pubDate>Sun, 21 May 2023 11:40:35 +0530</pubDate>
+      
+      <guid>https://navendu.me/posts/ai-and-apis/</guid>
+      <description>What do the recent advancements in generative AI mean for APIs?</description>
+    </item>
+    
+    <item>
+      <title>AI-Generated Spam Pull Requests</title>
+      <link>https://navendu.me/posts/ai-generated-spam-prs/</link>
+      <pubDate>Wed, 29 Mar 2023 18:15:40 +0530</pubDate>
+      
+      <guid>https://navendu.me/posts/ai-generated-spam-prs/</guid>
+      <description>Someone tried to open pull requests to open source projects with AI-generated code.</description>
+    </item>
+    
+    <item>
+      <title>ChatGPT Explained by ChatGPT</title>
+      <link>https://navendu.me/posts/chatgpt-explains-chatgpt/</link>
+      <pubDate>Wed, 21 Dec 2022 19:07:30 +0530</pubDate>
+      
+      <guid>https://navendu.me/posts/chatgpt-explains-chatgpt/</guid>
+      <description>A conversation with ChatGPT about ChatGPT. Who are you?</description>
+    </item>
+    
+  </channel>
+</rss>

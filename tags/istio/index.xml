@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>istio on Navendu Pottekkat</title>
+    <link>https://navendu.me/tags/istio/</link>
+    <description>Recent content in istio on Navendu Pottekkat</description>
+    <image>
+      <url>https://navendu.me/images/preview.png</url>
+      <link>https://navendu.me/</link>
+      <title>Navendu Pottekkat</title>
+    </image>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Fri, 16 Jun 2023 09:24:01 +0530</lastBuildDate><atom:link href="https://navendu.me/tags/istio/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>APISIX Service Mesh</title>
+      <link>https://navendu.me/posts/amesh/</link>
+      <pubDate>Fri, 16 Jun 2023 09:24:01 +0530</pubDate>
+      
+      <guid>https://navendu.me/posts/amesh/</guid>
+      <description>Apache APISIX is generally used to manage north-south traffic in Kubernetes and often sits at the edge of a cluster. With Amesh, APISIX is now a service mesh.</description>
+    </item>
+    
+  </channel>
+</rss>

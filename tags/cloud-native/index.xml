@@ -11,14 +11,68 @@
     </image>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 26 Aug 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://navendu.me/tags/cloud-native/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 24 Mar 2023 09:22:09 +0530</lastBuildDate><atom:link href="https://navendu.me/tags/cloud-native/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>CNCF Webinar: Meshery, the Service Mesh Manager</title>
+      <title>Best Practices for Building Reliable APIs</title>
+      <link>https://navendu.me/posts/best-practices-for-building-reliable-apis/</link>
+      <pubDate>Fri, 19 Aug 2022 17:12:35 +0530</pubDate>
+      
+      <guid>https://navendu.me/posts/best-practices-for-building-reliable-apis/</guid>
+      <description>As the size of your APIs increase, the need for making them reliable and robust also increases. This article discusses the best practices for designing reliable APIs by introducing you to a special kind of reverse proxies called API gateways.</description>
+    </item>
+    
+    <item>
+      <title>Custom Plugins in APISIX Ingress</title>
+      <link>https://navendu.me/posts/custom-plugins-in-apisix-ingress/</link>
+      <pubDate>Fri, 24 Mar 2023 09:22:09 +0530</pubDate>
+      
+      <guid>https://navendu.me/posts/custom-plugins-in-apisix-ingress/</guid>
+      <description>A hands-on tutorial on using custom APISIX Plugins in Kubernetes environments with APISIX Ingress.</description>
+    </item>
+    
+    <item>
+      <title>Kubernetes Gateway API With APISIX Ingress</title>
+      <link>https://navendu.me/posts/kubernetes-gateway-with-apisix/</link>
+      <pubDate>Fri, 20 Jan 2023 09:45:26 +0530</pubDate>
+      
+      <guid>https://navendu.me/posts/kubernetes-gateway-with-apisix/</guid>
+      <description>A hands-on tutorial on using the new Kubernetes Gateway API with Apache APISIX Ingress.</description>
+    </item>
+    
+    <item>
+      <title>Extending Apache APISIX Ingress with Annotations, CRDs, and Plugins</title>
+      <link>https://navendu.me/posts/extending-apisix-ingress/</link>
+      <pubDate>Fri, 16 Dec 2022 10:04:02 +0530</pubDate>
+      
+      <guid>https://navendu.me/posts/extending-apisix-ingress/</guid>
+      <description>A hands-on tutorial on leveraging the full features provided by APISIX in Kubernetes Ingress.</description>
+    </item>
+    
+    <item>
+      <title>Canary Release in Kubernetes With Apache APISIX Ingress</title>
+      <link>https://navendu.me/posts/canary-in-kubernetes/</link>
+      <pubDate>Fri, 21 Oct 2022 08:41:04 +0530</pubDate>
+      
+      <guid>https://navendu.me/posts/canary-in-kubernetes/</guid>
+      <description>A hands-on, from-scratch tutorial on setting up canary releases in Kubernetes with Apache APISIX Ingress.</description>
+    </item>
+    
+    <item>
+      <title>Set Up Ingress on Kubernetes With Apache APISIX Ingress Controller</title>
+      <link>https://navendu.me/posts/hands-on-set-up-ingress-on-kubernetes-with-apache-apisix-ingress-controller/</link>
+      <pubDate>Fri, 09 Sep 2022 09:11:44 +0530</pubDate>
+      
+      <guid>https://navendu.me/posts/hands-on-set-up-ingress-on-kubernetes-with-apache-apisix-ingress-controller/</guid>
+      <description>A tutorial on using Ingress in your Kubernetes cluster with Apache APISIX.</description>
+    </item>
+    
+    <item>
+      <title>Meshery, the Service Mesh Manager</title>
       <link>https://navendu.me/posts/cncf-webinar-meshery/</link>
       <pubDate>Thu, 26 Aug 2021 00:00:00 +0000</pubDate>
       
       <guid>https://navendu.me/posts/cncf-webinar-meshery/</guid>
-      <description>This CNCF Webinar introduces Meshery, the open source, service mesh management plane that enables the adoption, operation, and management of any service mesh and their workloads.</description>
+      <description>Meshery is an open source service mesh management plane that enables the adoption, operation, and management of any service mesh and their workloads.</description>
     </item>
     
   </channel>

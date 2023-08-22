@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>linux foundation on Navendu Pottekkat</title>
+    <link>https://navendu.me/tags/linux-foundation/</link>
+    <description>Recent content in linux foundation on Navendu Pottekkat</description>
+    <image>
+      <url>https://navendu.me/images/preview.png</url>
+      <link>https://navendu.me/</link>
+      <title>Navendu Pottekkat</title>
+    </image>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Fri, 02 Sep 2022 10:09:32 +0530</lastBuildDate><atom:link href="https://navendu.me/tags/linux-foundation/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>How the LFX Mentorship Program Helped Me Level Up My Career</title>
+      <link>https://navendu.me/posts/how-the-lfx-mentorship-program-helped-me-level-up-my-career/</link>
+      <pubDate>Fri, 02 Sep 2022 10:09:32 +0530</pubDate>
+      
+      <guid>https://navendu.me/posts/how-the-lfx-mentorship-program-helped-me-level-up-my-career/</guid>
+      <description>Sharing how I got involved in the LFX Mentorship Program and its life-changing impact on my career and personal life.</description>
+    </item>
+    
+  </channel>
+</rss>

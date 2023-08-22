@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>mastodon on Navendu Pottekkat</title>
+    <link>https://navendu.me/tags/mastodon/</link>
+    <description>Recent content in mastodon on Navendu Pottekkat</description>
+    <image>
+      <url>https://navendu.me/images/preview.png</url>
+      <link>https://navendu.me/</link>
+      <title>Navendu Pottekkat</title>
+    </image>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Wed, 02 Nov 2022 14:02:10 +0530</lastBuildDate><atom:link href="https://navendu.me/tags/mastodon/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>A Quick Start Guide for Mastodon</title>
+      <link>https://navendu.me/posts/mastodon-quick-start-guide/</link>
+      <pubDate>Wed, 02 Nov 2022 14:02:10 +0530</pubDate>
+      
+      <guid>https://navendu.me/posts/mastodon-quick-start-guide/</guid>
+      <description>Learn to get up and running with the microblogging platform everyone is talking about.</description>
+    </item>
+    
+  </channel>
+</rss>

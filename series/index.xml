@@ -10,6 +10,16 @@
       <title>Navendu Pottekkat</title>
     </image>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language><atom:link href="https://navendu.me/series/index.xml" rel="self" type="application/rss+xml" />
+    <language>en-us</language>
+    <lastBuildDate>Fri, 24 Mar 2023 09:22:09 +0530</lastBuildDate><atom:link href="https://navendu.me/series/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Hands-On With Apache APISIX Ingress</title>
+      <link>https://navendu.me/series/hands-on-with-apache-apisix-ingress/</link>
+      <pubDate>Fri, 24 Mar 2023 09:22:09 +0530</pubDate>
+      
+      <guid>https://navendu.me/series/hands-on-with-apache-apisix-ingress/</guid>
+      <description></description>
+    </item>
+    
   </channel>
 </rss>
