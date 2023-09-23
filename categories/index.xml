@@ -11,31 +11,40 @@
     </image>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 22 Aug 2023 19:14:37 +0530</lastBuildDate><atom:link href="https://navendu.me/categories/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 22 Sep 2023 10:37:34 +0530</lastBuildDate><atom:link href="https://navendu.me/categories/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Daily Dose of Pottekkat</title>
-      <link>https://navendu.me/categories/daily-dose-of-pottekkat/</link>
-      <pubDate>Tue, 22 Aug 2023 19:14:37 +0530</pubDate>
+      <title>API Gateway</title>
+      <link>https://navendu.me/categories/api-gateway/</link>
+      <pubDate>Fri, 22 Sep 2023 10:37:34 +0530</pubDate>
       
-      <guid>https://navendu.me/categories/daily-dose-of-pottekkat/</guid>
+      <guid>https://navendu.me/categories/api-gateway/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Public Policy</title>
+      <link>https://navendu.me/categories/public-policy/</link>
+      <pubDate>Fri, 08 Sep 2023 15:01:51 +0530</pubDate>
+      
+      <guid>https://navendu.me/categories/public-policy/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Blogging</title>
       <link>https://navendu.me/categories/blogging/</link>
-      <pubDate>Fri, 18 Aug 2023 17:59:56 +0530</pubDate>
+      <pubDate>Sat, 02 Sep 2023 07:48:36 +0530</pubDate>
       
       <guid>https://navendu.me/categories/blogging/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>API Gateway</title>
-      <link>https://navendu.me/categories/api-gateway/</link>
-      <pubDate>Mon, 14 Aug 2023 11:18:53 +0530</pubDate>
+      <title>Daily Dose of Pottekkat</title>
+      <link>https://navendu.me/categories/daily-dose-of-pottekkat/</link>
+      <pubDate>Mon, 28 Aug 2023 10:53:33 +0530</pubDate>
       
-      <guid>https://navendu.me/categories/api-gateway/</guid>
+      <guid>https://navendu.me/categories/daily-dose-of-pottekkat/</guid>
       <description></description>
     </item>
     
@@ -54,15 +63,6 @@
       <pubDate>Fri, 30 Jun 2023 10:05:57 +0530</pubDate>
       
       <guid>https://navendu.me/categories/iot/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Public Policy</title>
-      <link>https://navendu.me/categories/public-policy/</link>
-      <pubDate>Fri, 23 Jun 2023 17:31:01 +0530</pubDate>
-      
-      <guid>https://navendu.me/categories/public-policy/</guid>
       <description></description>
     </item>
     

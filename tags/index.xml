@@ -11,38 +11,11 @@
     </image>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 22 Aug 2023 19:14:37 +0530</lastBuildDate><atom:link href="https://navendu.me/tags/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>daily log</title>
-      <link>https://navendu.me/tags/daily-log/</link>
-      <pubDate>Tue, 22 Aug 2023 19:14:37 +0530</pubDate>
-      
-      <guid>https://navendu.me/tags/daily-log/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>blogs</title>
-      <link>https://navendu.me/tags/blogs/</link>
-      <pubDate>Fri, 18 Aug 2023 17:59:56 +0530</pubDate>
-      
-      <guid>https://navendu.me/tags/blogs/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>setup</title>
-      <link>https://navendu.me/tags/setup/</link>
-      <pubDate>Fri, 18 Aug 2023 17:59:56 +0530</pubDate>
-      
-      <guid>https://navendu.me/tags/setup/</guid>
-      <description></description>
-    </item>
-    
+    <lastBuildDate>Fri, 22 Sep 2023 10:37:34 +0530</lastBuildDate><atom:link href="https://navendu.me/tags/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>apache apisix</title>
       <link>https://navendu.me/tags/apache-apisix/</link>
-      <pubDate>Mon, 14 Aug 2023 11:18:53 +0530</pubDate>
+      <pubDate>Fri, 22 Sep 2023 10:37:34 +0530</pubDate>
       
       <guid>https://navendu.me/tags/apache-apisix/</guid>
       <description></description>
@@ -51,7 +24,7 @@
     <item>
       <title>api gateway</title>
       <link>https://navendu.me/tags/api-gateway/</link>
-      <pubDate>Mon, 14 Aug 2023 11:18:53 +0530</pubDate>
+      <pubDate>Fri, 22 Sep 2023 10:37:34 +0530</pubDate>
       
       <guid>https://navendu.me/tags/api-gateway/</guid>
       <description></description>
@@ -60,9 +33,90 @@
     <item>
       <title>tutorials</title>
       <link>https://navendu.me/tags/tutorials/</link>
-      <pubDate>Mon, 14 Aug 2023 11:18:53 +0530</pubDate>
+      <pubDate>Fri, 22 Sep 2023 10:37:34 +0530</pubDate>
       
       <guid>https://navendu.me/tags/tutorials/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>cloud-native</title>
+      <link>https://navendu.me/tags/cloud-native/</link>
+      <pubDate>Fri, 15 Sep 2023 19:55:51 +0530</pubDate>
+      
+      <guid>https://navendu.me/tags/cloud-native/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>government</title>
+      <link>https://navendu.me/tags/government/</link>
+      <pubDate>Fri, 08 Sep 2023 15:01:51 +0530</pubDate>
+      
+      <guid>https://navendu.me/tags/government/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>open access</title>
+      <link>https://navendu.me/tags/open-access/</link>
+      <pubDate>Fri, 08 Sep 2023 15:01:51 +0530</pubDate>
+      
+      <guid>https://navendu.me/tags/open-access/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>public policy</title>
+      <link>https://navendu.me/tags/public-policy/</link>
+      <pubDate>Fri, 08 Sep 2023 15:01:51 +0530</pubDate>
+      
+      <guid>https://navendu.me/tags/public-policy/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>blogs</title>
+      <link>https://navendu.me/tags/blogs/</link>
+      <pubDate>Sat, 02 Sep 2023 07:48:36 +0530</pubDate>
+      
+      <guid>https://navendu.me/tags/blogs/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>setup</title>
+      <link>https://navendu.me/tags/setup/</link>
+      <pubDate>Sat, 02 Sep 2023 07:48:36 +0530</pubDate>
+      
+      <guid>https://navendu.me/tags/setup/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>daily log</title>
+      <link>https://navendu.me/tags/daily-log/</link>
+      <pubDate>Mon, 28 Aug 2023 10:53:33 +0530</pubDate>
+      
+      <guid>https://navendu.me/tags/daily-log/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>elasticsearch</title>
+      <link>https://navendu.me/tags/elasticsearch/</link>
+      <pubDate>Mon, 28 Aug 2023 09:05:46 +0530</pubDate>
+      
+      <guid>https://navendu.me/tags/elasticsearch/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>monitoring</title>
+      <link>https://navendu.me/tags/monitoring/</link>
+      <pubDate>Mon, 28 Aug 2023 09:05:46 +0530</pubDate>
+      
+      <guid>https://navendu.me/tags/monitoring/</guid>
       <description></description>
     </item>
     
@@ -144,24 +198,6 @@
       <pubDate>Fri, 23 Jun 2023 17:31:01 +0530</pubDate>
       
       <guid>https://navendu.me/tags/ai/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>government</title>
-      <link>https://navendu.me/tags/government/</link>
-      <pubDate>Fri, 23 Jun 2023 17:31:01 +0530</pubDate>
-      
-      <guid>https://navendu.me/tags/government/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>public policy</title>
-      <link>https://navendu.me/tags/public-policy/</link>
-      <pubDate>Fri, 23 Jun 2023 17:31:01 +0530</pubDate>
-      
-      <guid>https://navendu.me/tags/public-policy/</guid>
       <description></description>
     </item>
     
@@ -292,15 +328,6 @@
     </item>
     
     <item>
-      <title>cloud-native</title>
-      <link>https://navendu.me/tags/cloud-native/</link>
-      <pubDate>Fri, 24 Mar 2023 09:22:09 +0530</pubDate>
-      
-      <guid>https://navendu.me/tags/cloud-native/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>ingress</title>
       <link>https://navendu.me/tags/ingress/</link>
       <pubDate>Fri, 24 Mar 2023 09:22:09 +0530</pubDate>
@@ -360,15 +387,6 @@
       <pubDate>Wed, 21 Dec 2022 19:07:30 +0530</pubDate>
       
       <guid>https://navendu.me/tags/neural-networks/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>monitoring</title>
-      <link>https://navendu.me/tags/monitoring/</link>
-      <pubDate>Fri, 09 Dec 2022 10:15:51 +0530</pubDate>
-      
-      <guid>https://navendu.me/tags/monitoring/</guid>
       <description></description>
     </item>
     

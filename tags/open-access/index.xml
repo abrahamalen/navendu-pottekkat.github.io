@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>open access on Navendu Pottekkat</title>
+    <link>https://navendu.me/tags/open-access/</link>
+    <description>Recent content in open access on Navendu Pottekkat</description>
+    <image>
+      <url>https://navendu.me/images/preview.png</url>
+      <link>https://navendu.me/</link>
+      <title>Navendu Pottekkat</title>
+    </image>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Fri, 08 Sep 2023 15:01:51 +0530</lastBuildDate><atom:link href="https://navendu.me/tags/open-access/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>One Nation, One Subscription, Many Problems</title>
+      <link>https://navendu.me/posts/onos-problems/</link>
+      <pubDate>Fri, 08 Sep 2023 15:01:51 +0530</pubDate>
+      
+      <guid>https://navendu.me/posts/onos-problems/</guid>
+      <description>Access to publicly funded scientific research should be ubiquitous. But the current plan to achieve this is far from ideal.</description>
+    </item>
+    
+  </channel>
+</rss>
